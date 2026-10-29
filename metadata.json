@@ -1,0 +1,6 @@
+{
+  "name": "MJPRU Campus Canteen",
+  "description": "Smart on-campus food ordering and live counter pickup platform for students and faculty of Mahatma Jyotiba Phule Rohilkhand University, Bareilly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
